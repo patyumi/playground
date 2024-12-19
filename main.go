@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	SaveId "playground/saveId"
+
+	SaveId "github.com/patyumi/playground/saveId"
 )
 
 func main() {
